@@ -1,6 +1,6 @@
 # MVP Architecture using Kotlin
 
-This MVP architecture project fetch Github specific user list and redirect to repository. It's an simple and easily migrate to your new or already existing project.
+This MVP architecture project fetch Github specific user list and redirect to repository. It's simple and easily migrates to your new or already existing project.
 
 ### Looking for Kotlin MVVM Architecture - [Check here](https://github.com/patoliavishal/MVVM-Kotlin)
 
